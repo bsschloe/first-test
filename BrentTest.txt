@@ -1,0 +1,7 @@
+This is a test file.
+I'm learning how Git and GitHub work.
+I created this file on my computer.
+Code below
+.
+.
+.
