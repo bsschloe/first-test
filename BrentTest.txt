@@ -6,3 +6,6 @@ Code below
 .
 .
 Made a change for second push.
+.
+.
+New line for pull test from GitHub.
